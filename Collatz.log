@@ -1,0 +1,98 @@
+commit ec5fb56cc3117df843e5c35ae3a2e80ef610485b
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Thu Oct 10 18:44:39 2019 -0500
+
+    Edits to include more standard comments, better variable names, and better input validations
+
+commit eaf0c88e177f88181bbcc84a1a664188610b3d33
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Thu Oct 10 14:11:23 2019 -0500
+
+    Updates for the end of Phase 3, and Adding Accepted Sphere Challenge Code
+
+commit c224d3bc71d3bda0c20d4b47cf857c1dd36af686
+Merge: a012ec4 7485a0d
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Mon Oct 7 14:09:53 2019 -0500
+
+    Fixed Merge Errors in TestCollatz.py
+
+commit 7485a0d2b1fdca871179f243f78d35a385fc5e4b
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Mon Oct 7 14:04:06 2019 -0500
+
+    Edits to In and Out file for larger-value acceptance tests
+
+commit c6e8a926cf0b0e29cbc2390361f9b88d0029aa22
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Mon Oct 7 14:03:11 2019 -0500
+
+    Added Eager Cache
+
+commit a012ec40b0a1f081ed9995621b01125f2927b6aa
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Mon Oct 7 11:10:39 2019 -0500
+
+    Final edits to files for Phase 2 after Office Hour Visit
+
+commit 522a3b35e03daec20d65a7c74c1f54cfe067541b
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Oct 5 21:58:17 2019 -0500
+
+    Updates to Collatz In and Out files to satisfy the 100 test requirement.
+
+commit 264b2c8e1745a42a6954d788e405bf383ce3a7d4
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Oct 5 21:57:18 2019 -0500
+
+    Updates for more elaborate edge-case testing
+
+commit 135a275cfb231d4263923c6e1daf86699a5c287d
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Oct 5 21:55:53 2019 -0500
+
+    Updating Assertions for Collatz
+
+commit d753ef1cea272d78d8ed710f4405434b5744594d
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Oct 5 19:05:15 2019 -0500
+
+    Updated CollatzTest file to Test New Assertions
+
+commit 04ad2c0b62d9bbf5d5d0a41ce44eefb0ca131c87
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Oct 5 19:02:24 2019 -0500
+
+    Updated Collatz file to Include Relevant Assignment Assertions
+
+commit dd4f136ba839e65bccea6150f20192761a2ac8a6
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Fri Oct 4 20:23:52 2019 -0500
+
+    First Edits to the UnitTest file to Include Multiple Tests of Each Function
+
+commit dc0aa9bcc7437241e86c61e998a5e6fbcd7b0691
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Sep 28 15:30:39 2019 -0500
+
+    Updates Unit Tests for Collatz; Fixes Issue #12
+    This commit is also related to the changes done to fix issue #11
+
+commit 787ee3a9b670e888607abe9f436a7eb278fbe3f7
+Author: Shan Deng <shandeng@utexas.edu>
+Date:   Sat Sep 28 15:25:53 2019 -0500
+
+    Updates the collatz_eval() Function; Fixes Issue #11
+    git status
+
+commit 8ea5cf44971147ba2f8d018fc1d1c1aa6a20553a
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Sat Aug 24 14:27:56 2019 -0700
+
+    first commit
+
+commit a22a10e96b3338d4f58a227b34de8df530861827
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Sat Aug 24 21:23:21 2019 +0000
+
+    Initial commit
